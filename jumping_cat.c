@@ -1,4 +1,4 @@
-﻿//2021.
+﻿//참고: https://github.com/BlockDMask/Google_Dino.git
 
 #include<stdio.h>
 #include<windows.h>
@@ -191,13 +191,6 @@ void LandingCat(int CatY)
 
 //뜀틀 등장
 /*
-r-------ㄱ
-|┻┳┻┳|
-|┳┻┳┻|
-|┻┳┻┳|
-|┳┻┳┻|
-|┻┳┻┳|
-|┳┻┳┻|
 
 8칸*5줄(말풍선 1줄)
 
